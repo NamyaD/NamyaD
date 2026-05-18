@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Hi+There+👋+I'm+Namya+Dutta;Software+Engineering+Enthusiast;Building+%7C+Learning+%7C+Leading;Associate+Research+Fellow" alt="Typing SVG" />
+</h1>
 
 # 💫 About Me:
 Junior Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code. Building systems, analyzing data, and occasionally fixing bugs I created myself. Usually found somewhere between DSA, dashboards, AI exploration, system architecture, and caffeine dependency.
