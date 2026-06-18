@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-Junior Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code. Building systems, analyzing data, and occasionally fixing bugs I created myself. Usually found somewhere between DSA, dashboards, AI exploration, system architecture, and caffeine dependency.
+Computer Science undergraduate passionate about building impactful tech and solving real-world problems through code. Building systems, analyzing data, and occasionally fixing bugs I created myself. Usually found somewhere between DSA, dashboards, AI exploration, system architecture, and caffeine dependency.
 
 
 # 💻 Tech Stack:
